@@ -2,3 +2,8 @@
 	path = robertogracias/lomed_v16_202301071540
 	url = git@github.com:robertogracias/lomed_v16.git
 	branch = main
+
+[submodule "robertogracias/lomed_v16_202301071550"]
+	path = robertogracias/lomed_v16_202301071550
+	url = git@github.com:robertogracias/lomed_v16.git
+	branch = main
